@@ -1,4 +1,4 @@
-### Hello guys!
+### Hello guys! I'm Indaiara!
 
 <!--
 **Indaiara-Ribeiro/Indaiara-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-I'm Brazilian, I live in Rio Grande do Sul
+-I'm studying Systems Analysis and Development
+-I'm studying web design
+-Love art, languages and listening to music
+-I love doing handicrafts in my spare time
+
