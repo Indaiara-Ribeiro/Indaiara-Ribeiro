@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--I'm Brazilian, I live in Rio Grande do Sul
--I'm studying Systems Analysis and Development
--I'm studying web design
+- I'm Brazilian, I live in Rio Grande do Sul
+- I'm studying Systems Analysis and Development
+- I'm studying web design
 -Love art, languages and listening to music
--I love doing handicrafts in my spare time
+- I love doing handicrafts in my spare time
 
