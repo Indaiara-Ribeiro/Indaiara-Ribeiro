@@ -1,4 +1,4 @@
-### Hello! This's me, Indaiara! 👋🏽
+## Hello! This's me, Indaiara! 👋🏽
 
 <!--
 **Indaiara-Ribeiro/Indaiara-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👩🏾‍💻 I'm currently learning Web Design 
 - 🎨 **Fun facts:** I love art, languages and making crafts in my spare time
 
-- 
-     ##  ✨ I'm happy to take the first steps in my development career! ✨
+  
+     **✨ I'm happy to take the first steps in my development career! ✨**
 
    
