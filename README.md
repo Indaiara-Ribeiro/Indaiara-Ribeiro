@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   📍 I'm Brazilian, I live in Rio Grande do Sul    
   🎓 I'm studying for a degree in Systems Analysis and Development    
   👩🏾‍💻 I'm currently learning Web Design     
-  🎨 **Fun facts:** I love art, languages and making crafts in my spare time   
-           :**✨ I'm happy to take the first steps in my development career!✨** :
+  🎨 **Fun facts:** I love art, languages and making crafts in my spare time  
+           <p text-ident="20px"><b>✨ I'm happy to take the first steps in my development career!✨</b><p>
 
    
